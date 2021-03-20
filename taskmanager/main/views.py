@@ -6,4 +6,4 @@ from django.http import HttpResponse
 
 def index(request):
     return HttpResponse('<h4>Site Test SeleniumWebdriver</h4>'),
-#python manage.py runserver
+# python manage.py runserver
